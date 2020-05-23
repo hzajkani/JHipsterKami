@@ -1,0 +1,40 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "ir.dotin.sso"
+    },
+    "jhipsterVersion": "6.9.0",
+    "applicationType": "monolith",
+    "baseName": "kami",
+    "packageName": "ir.dotin.sso",
+    "packageFolder": "ir/dotin/sso",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGJjYzBkYjNmZGRmNzZlNWQ4NDA0Yjk1YTg2Yjg1NzZmNmU0MmUyOTVmZDFiMmIxMmI4MTgyZjYwZTk2ZTU1N2E3N2NkMGIzYzJjOWIzNDY0YzhjODc0NGI1NDcxZmRmODQyZGNlZTdjNTVmOTU5ODM2ZmRmZjNlMDJlZjQ3MTM=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "react",
+    "clientTheme": "none",
+    "clientThemeVariant": "",
+    "creationTimestamp": 1590266356324,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "blueprints": []
+  }
+}
